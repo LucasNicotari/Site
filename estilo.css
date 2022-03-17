@@ -1,0 +1,46 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* html */
+
+html {
+    width: 100vw;
+    height: 100vh;
+    font-size: 62.5%;
+    color: black;
+    font-family: 'lato', sans-serif;
+}
+
+
+/*cabeçalho*/
+/* background cabeçalho*/
+
+header{
+    background-image: url(../LP\ -\ Marcos\ Baldoo/logogrande.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position-y: 0px;
+    background-attachment: scroll;
+    width: 100%;
+    height: 80vh;
+}
+
+/*menu*/
+
+.header-menu {
+    float: right;
+    margin-top: 40px;
+    margin-right: 130px;
+}
+
+.logo-menu {
+    float: right;
+    margin-top: 50px;
+    margin-right: -120px;
+}
